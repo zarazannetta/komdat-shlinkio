@@ -117,10 +117,11 @@ isi deskripsi
 
     - Isi API Key dengan API yang didapat dari generate API key
 
-      ![3](Screenshots/shlinkio1.png )
+      ![3](Screenshots/shlinkio3.png )
 
 
 12. Proses instalasi selesai
+    ![4](Screenshots/shlinkio4.png )
 
 
 
