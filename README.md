@@ -105,23 +105,19 @@ isi deskripsi
 11. Kunjungi alamat IP web server
     - Kunjungi alamat domain
 
-      ![1](masukin link foto)
+      ![1](Screenshots/shlinkio1.png )
 
     - Pilih add your first server
 
-      ![2](masukin link foto)
+      ![2](Screenshots/shlinkio2.png )
 
     - Isi name sesuai keinginan
 
-      ![3](masukin link foto)
-
     - Isi URL dengan http://(alamat IP)/shlinkio
-
-      ![4](masukin link foto)
 
     - Isi API Key dengan API yang didapat dari generate API key
 
-      ![5](masukin link foto)
+      ![3](Screenshots/shlinkio1.png )
 
 
 12. Proses instalasi selesai
