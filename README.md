@@ -158,3 +158,4 @@ Tentu saja setiap aplikasi memiliki kekurangan berikut beberapa kekurangan dari 
 
 1. [Self-hosted URL Shortener with Shlink](https://i12bretro.github.io/tutorials/0225.html) - Github
 2. [Shlink Documentation](https://github.com/shlinkio/shlink) - Github
+3. https://shlink.io/documentation/ - shlink
