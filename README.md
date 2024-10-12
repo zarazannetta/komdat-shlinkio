@@ -146,7 +146,29 @@ isi cara pemakaian
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-isi pembahasan
+Shlink merupakan solusi pemendek URL yang menarik untuk pengguna yang menginginkan kendali penuh atas data dan infrastruktur.Aplikasi ini mencerminkan tren penting dalam dunia teknologi web, di mana privasi data, transparansi, dan fleksibilitas menjadi semakin diutamakan. 
+
+Sebagai aplikasi open-source dan self-hosted, Shlink memberikan alternatif yang menarik bagi layanan pemendek URL komersial. ini sangat membantu untuk organisasi atau individu yang memiliki kebutuhan spesifik dalam manajemen URL yang ingin menghindari ketergantungan pada pihak ketiga.
+
+Kelebihan:
+Aplikasi ini menawarkan sejumlah keunggulan di antaranya:
+
+-Kontrol penuh: Pengguna memiliki kendali penuh atas seluruh data dan infrastruktur mereka sendiri, sehingga pengguna dapat menyesuaikan sistem sesuai kebutuhan tanpa ada keterlibatan pihak ketiga.
+-Privasi dan keamanan: Dengan sistem self-hosted, data pengguna tidak dibagikan dengan pihak ketiga, sehingga memberikan tingkat privasi dan keamanan yang lebih tinggi dibandingkan dengan layanan berbasis cloud.
+-Kustomisasi: Aplikasi ini sangat fleksibel dan dapat disesuaikan sesuai kebutuhan pengguna, baik dalam hal fitur, tampilan, maupun pengaturan sistem.
+-Fitur lengkap: Shlinkio menyediakan berbagai fitur seperti analitik mendalam, API, manajemen multi-domain, dan banyak lagi, menjadikannya solusi yang komprehensif untuk manajemen URL
+-Gratis dan open-source: Aplikasi ini dapat digunakan tanpa biaya lisensi karena merupakan software open-source. Kode sumbernya dapat diakses, diaudit, dan dimodifikasi oleh siapa saja.
+-Integrasi: Shlinkio memiliki API yang kuat, memungkinkan integrasi yang lancar dengan sistem lain, memudahkan pengguna untuk menghubungkan aplikasi ini dengan platform lain sesuai kebutuhan.
+
+Kekurangan:
+Tentu saja setiap aplikasi memiliki kekurangan berikut beberapa kekurangan dari Shlinkio antara lain;
+-Kompleksitas teknis:Pengguna yang ingin menggunakan aplikasi ini harus memiliki pengetahuan teknis yang memadai, terutama dalam hal instalasi, konfigurasi, dan pemeliharaan sistem.
+-Tanggung jawab infrastruktur: Karena bersifat self-hosted, pengguna bertanggung jawab penuh atas pengelolaan hosting, keamanan, dan pembaruan sistem, yang memerlukan sumber daya dan waktu tambahan.
+-Dukungan terbatas: Berbeda dengan layanan komersial yang menyediakan dukungan 24/7, Shlinkio tidak memiliki dukungan profesional secara langsung, sehingga pengguna harus bergantung pada komunitas dan dokumentasi.
+-Potensi biaya tersembunyi: Meskipun aplikasi ini gratis, pengguna masih perlu menyiapkan biaya untuk hosting dan pemeliharaan server yang diperlukan untuk menjalankannya.
+-Kurva pembelajaran: Aplikasi ini memiliki banyak fitur yang membutuhkan waktu untuk dipelajari. Pengguna mungkin memerlukan waktu lebih lama untuk menguasai seluruh fungsionalitas yang ditawarkan.
+
+
 
 # Referensi
 [`^ kembali ke atas ^`](#)
