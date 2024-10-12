@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/shlinkio/shlink.io/main/public/images/shlink-hero.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:
 
 
 
