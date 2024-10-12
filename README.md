@@ -126,8 +126,31 @@ Dokumentasi Shlink memberikan panduan lengkap tentang cara menginstal dan mengon
 
 # Cara Pemakaian
 
-isi cara pemakaian
+Sebelum memulai, mari kenali dulu aplikasi Shlink yang dirancang untuk mempermudah pengelolaan dan pemendekan URL. Aplikasi ini memiliki berbagai fitur yang intuitif dan mendukung kebutuhan. Cara penggunaan aplikasi Shlink ini sangat sederhana, karena aplikasi ini sudah menyediakan antarmuka yang mudah dipahami. Berikut penjelasan lebih lanjutnya.
 
+1. Setelah membuka aplikasi Shlink maka akan disambut dengan halaman utama seperti gambar di bawah. Di sini, kita dapat memulai dengan menambahkan server Shlink. Klik pada tautan **add your first server** untuk memulai konfigurasi server Shlink.
+
+   ![5](Screenshots/shlinkio5.png )
+
+2. masukkan nama server, URL, dan API key pada kolom yang tersedia, lalu pilih **Create server** untuk menyimpan konfigurasi atau gunakan **Import from file** jika sudah memiliki file konfigurasi.
+
+   ![6](Screenshots/shlinkio6.png )
+
+3. Setelah menambahkan server, kita akan melihat menu untuk membuat short URL, masukkan URL yang ingin dipersingkat di bagian **URL to be shortened**, tambahkan tags jika perlu, klik **Save**, dan URL yang baru akan muncul di bagian **Recently created URLs** lengkap dengan informasi seperti tanggal pembuatan, URL asli, jumlah kunjungan, dan tags.
+
+   ![7](Screenshots/shlinkio7.png )
+
+4. Pada bagian kiri, terdapat menu lain yang dapat kita gunakan, menu **List short URLs** digunakan apabila kita ingin melihat dan mencari semua list URL yang sudah dibuat.
+
+   ![8](Screenshots/shlinkio8.png )
+
+5. Menu selanjutnya yaitu **Create short URL** yang digunakan untuk membuat short URL namun dengan lebih detail, seperti Kustomisasi dan pembatasan jumlah dan waktu akses.
+
+   ![9](Screenshots/shlinkio9.png )
+
+6. Terakhir terdapat juga menu **Manage tags** untuk mengelola tags yang terdapat pada short URL.
+
+   ![10](Screenshots/shlinkio10.png )
 
 # Pembahasan
 
