@@ -7,7 +7,9 @@
 
 # Sekilas Tentang
 
-isi deskripsi
+Shlink adalah pemendek URL self-hosted yang memberikan fleksibilitas tinggi dengan menyediakan antarmuka REST dan CLI untuk berinteraksi dengan sistem. Ini memungkinkan pengguna untuk membuat dan mengelola URL pendek secara langsung melalui command line atau API, menjadikannya pilihan yang ideal untuk mereka yang ingin mengotomatisasi proses pemendekan URL atau mengintegrasikannya dengan aplikasi lain. Untuk memberikan pengalaman yang lebih mudah dan ramah pengguna, tersedia juga *Shlink Web Client*—antarmuka web resmi yang memanfaatkan API REST Shlink, memungkinkan pengelolaan beberapa instance Shlink melalui UI yang sederhana namun fungsional.
+
+Dokumentasi Shlink memberikan panduan lengkap tentang cara menginstal dan mengonfigurasi baik aplikasi inti maupun klien web dengan beberapa metode instalasi yang tersedia. Selain instalasi, dokumentasi tersebut menjelaskan struktur arsitektur Shlink, fitur yang dapat dimanfaatkan setelah sistem berjalan, dan cara menangani instance multi-domain. Pengguna juga dapat menemukan jawaban atas pertanyaan umum yang membantu mengoptimalkan penggunaan Shlink dan mengatasi kendala umum yang mungkin dihadapi.
 
 # Instalasi
 
