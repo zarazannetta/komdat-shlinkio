@@ -26,7 +26,7 @@ Dokumentasi Shlink memberikan panduan lengkap tentang cara menginstal dan mengon
     $ ssh root@160.19.166.87
     ```
 
-2. Pastikan seluruh paket sistem kita *up-to-date*, dan install seluruh kebutuhan sisrem seperti `Apache`, `PHP`, `MySQL` dan `MariaDB`.
+2. Pastikan seluruh paket sistem *up-to-date*, dan install seluruh kebutuhan sistem seperti `Apache`, `PHP`, `MySQL` dan `MariaDB`.
     ```
     $ sudo apt update
     $ sudo apt upgrade -y
@@ -52,12 +52,12 @@ Dokumentasi Shlink memberikan panduan lengkap tentang cara menginstal dan mengon
     $ exit
     ```
 
-3. Unduh **Shlinkio** ke dalam direktori kita. 
+3. Unduh **Shlinkio** 
     ```
     $ sudo wget https://github.com/shlinkio/shlink/releases/download/v2.6.2/shlink2.6.2_php8.0_dist.zip
     ```
 
-4. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
+4. Ekstrak file yang telah diunduh ke dalam direktori yang diinginkan.
     ```
     $ sudo unzip shlink2.6.2_php8.0_dist.zip -d /var/www
     $ sudo mv /var/www/shlink* /var/www/shlinkio
@@ -68,7 +68,7 @@ Dokumentasi Shlink memberikan panduan lengkap tentang cara menginstal dan mengon
     $ sudo chown -R www-data:www-data /var/www/shlinkio
     ```
 
-6. Jalankan installer shlinkioo
+6. Jalankan installer shlinkio
     ```
     $ sudo -u www-data php /var/www/shlinkio/bin/install
     ```
