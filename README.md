@@ -6,12 +6,10 @@
 
 
 # Sekilas Tentang
-[`^ kembali ke atas ^`](#)
 
 isi deskripsi
 
 # Instalasi
-[`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows.
@@ -124,27 +122,12 @@ isi deskripsi
     ![4](Screenshots/shlinkio4.png )
 
 
-
-# Konfigurasi
-[`^ kembali ke atas ^`](#)
-
-
-# Maintenance
-[`^ kembali ke atas ^`](#)
-
-
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
-
 # Cara Pemakaian
-[`^ kembali ke atas ^`](#)
 
 isi cara pemakaian
 
 
 # Pembahasan
-[`^ kembali ke atas ^`](#)
 
 Shlink merupakan solusi pemendek URL yang menarik untuk pengguna yang menginginkan kendali penuh atas data dan infrastruktur.Aplikasi ini mencerminkan tren penting dalam dunia teknologi web, di mana privasi data, transparansi, dan fleksibilitas menjadi semakin diutamakan. 
 
@@ -170,7 +153,5 @@ Tentu saja setiap aplikasi memiliki kekurangan berikut beberapa kekurangan dari 
 
 
 # Referensi
-[`^ kembali ke atas ^`](#)
 
 1. [Self-hosted URL Shortener with Shlink](https://i12bretro.github.io/tutorials/0225.html) - Github
-3.
